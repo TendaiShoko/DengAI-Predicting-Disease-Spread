@@ -1,14 +1,13 @@
 # DengAI-Predicting-Disease-Spread
-232AML9X02 (232AML9X02) MACHINE LEARNING
-Prof Terence van Zyl
+## 232AML9X02 (232AML9X02) MACHINE LEARNING
+## Supervisor :  Prof Terence van Zyl
 
-Deliverables
+<u> Deliverables <u>
 1. Demonstrate the working code and notebooks for the study
-2. Publish research paper to arXiv.
+2. Publish your research paper to arXiv.
 
-Phase Bonus Level
-Deliverables
+<u> **Phase Bonus Level** <u>
 1. Submit a research article to a conference
 
-Dataset
+Dataset:
 https://www.drivendata.org/competitions/44/dengai-predicting-disease-spread/
